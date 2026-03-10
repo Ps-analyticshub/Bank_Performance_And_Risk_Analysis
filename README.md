@@ -1,4 +1,4 @@
-# 🏦 Bank Performanc and Risk Analysis Dashboard (Power BI)
+# 🏦 Bank Performance and Risk Analysis Dashboard (Power BI)
 
 ## 📊 Project Overview
 
